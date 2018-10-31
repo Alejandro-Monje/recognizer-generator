@@ -1,7 +1,7 @@
 //=========================================================                                                                                                                                                                                   
 //Your name: Alejandro Monje                                                                                                        
 //Complier:  g++ compiler                                                                                                           
-//File type: queue implemenation file                                                                                               
+                                                                                            
 //===========================================================                                                                       
 
  using namespace std;
